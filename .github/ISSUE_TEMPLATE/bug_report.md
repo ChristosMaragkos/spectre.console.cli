@@ -2,7 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ["bug", "needs triage"]
+labels: ["needs triage"]
+type: ["bug"]
 assignees: ''
 
 ---
@@ -11,6 +12,8 @@ assignees: ''
  - OS: [eg Windows/Linux/MacOS]
  - Version: [e.g. 1.0.0-alpha.0.13]
  - Terminal: [e.g Windows Terminal]
+ - .NET SDK: [e.g. 10.0.103]
+ - .NET Runtime: [e.g. 10.0.103]
 
 **Describe the bug**
 A clear and concise description of what the bug is.
